@@ -21,7 +21,7 @@ By executing strictly on-premises using **Ollama** and **Streamlit**, this workf
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    USER INPUT (Streamlit UI)                │
+│               USER INPUT (Streamlit UI)                     │
 │  PDF upload (PyMuPDF / Tesseract OCR) or technical text     │
 └─────────────────────┬───────────────────────────────────────┘
                       ▼
