@@ -1,4 +1,4 @@
-# aerospace-airgapped-eci-classifier
+# Aerospace-Airgapped-ECI-Classifier
 
 A secure, locally hosted multi-agent AI system designed to assist Export Control Officers in classifying aerospace components under ITAR (defense) or EAR (commercial) regulations.
 
