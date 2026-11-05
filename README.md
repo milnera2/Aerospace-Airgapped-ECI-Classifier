@@ -56,7 +56,7 @@ By executing strictly on-premises using **Ollama** and **Streamlit**, this workf
 └─────────────────────┬───────────────────────────────────────┘
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│              CUI BANNER (Streamlit UI)                      │
+│                CUI BANNER (Streamlit UI)                    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
