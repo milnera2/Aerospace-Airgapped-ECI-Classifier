@@ -52,7 +52,7 @@ By executing strictly on-premises using **Ollama** and **Streamlit**, this workf
 ┌─────────────────────────────────────────────────────────────┐
 │  AGENT 3 — Compliance Marking Generator                     │
 │  • Generates exact CUI banner formatting                    │
-│  • 32 CFR Part 2002 / DoD 5200.48 / ITAR & EAR warnings   │
+│  • 32 CFR Part 2002 / DoD 5200.48 / ITAR & EAR warnings     │
 └─────────────────────┬───────────────────────────────────────┘
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
