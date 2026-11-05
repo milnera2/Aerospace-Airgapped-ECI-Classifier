@@ -1,0 +1,11 @@
+UNITED STATES MUNITIONS LIST (USML) - 22 CFR PART 121:
+- Category VIII (Aircraft and Related Articles):
+  * VIII(a): Aircraft, including helicopters, UAVs, specifically designed or modified for military use.
+  * VIII(f): Engines specifically designed or modified for military aircraft.
+  * VIII(h): Parts, components, accessories, attachments, and associated equipment specifically designed or modified for defense articles in VIII(a)-(f), including stealth coatings, structural composites certified to military combat shock/vibration/12G+ limit loads, and tactical avionics.
+- Category IV (Launch Vehicles, Guided Missiles, Ballistic Missiles, Rockets):
+  * IV(a): Rockets, guided missiles, space launch vehicles.
+  * IV(f): Structural materials, ablative thermal protection, scramjet/ramjet components specifically designed for missiles or hypersonic weapons.
+- Category XIII (Materials and Miscellaneous Articles):
+  * XIII(f): Structural materials, radar-absorbent materials (RAM), and coatings specifically designed to reduce radar cross section or infrared signature for defense applications.
+- 22 CFR 120.41 ("Specifically Designed"): An item is specifically designed if, as a result of development, it has properties peculiarly responsible for achieving or exceeding performance levels or functions directly related to military defense articles, and is NOT released under 120.41(b) (e.g. form/fit/function common standard commercial parts).

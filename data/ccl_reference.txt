@@ -1,0 +1,8 @@
+COMMERCE CONTROL LIST (CCL) - 15 CFR PART 774 (SUPPLEMENT NO. 1):
+- Category 9 (Aerospace and Propulsion):
+  * 9A001: Aero gas turbine engines incorporating civil certification technologies (ICAO Annex 16).
+  * 9A610: Military aircraft and "specially designed" parts, components, accessories, and attachments therefor not listed in USML Category VIII (the "600 series" transition).
+  * 9A991: Civil aircraft and parts/components "specially designed" therefor, not controlled under 9A001 or 9A610 (civil airliners, commercial transport items).
+  * EAR99: Items subject to the EAR that are not specified on the Commerce Control List (low-tech, standard civil commercial items with no proprietary defense characteristics).
+- Category 1 (Special Materials and Related Equipment):
+  * 1C010: Fibrous or filamentary materials suitable for aerospace composite structures (polyacrylonitrile (PAN) based carbon fibers with specific tensile modulus >= 12.7 x 10^6 m).
